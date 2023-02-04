@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Active App Icon */
+svg.active > path {
+  fill: white;
+}
